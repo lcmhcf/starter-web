@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 Some description
 
-Add a line for rebase
+Add a line for rebase, then more changes from myfeature branch
 
 ## Another title
 
