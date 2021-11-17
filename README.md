@@ -13,3 +13,6 @@ Some description
 ## Another title
 
 Some other text.
+
+### Copyright
+copyright......
