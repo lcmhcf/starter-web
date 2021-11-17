@@ -14,7 +14,7 @@ Add a line for rebase, then more changes from myfeature branch
 
 ## Another title
 
-Some other text.
+Some other text. Some fix after stash
 
 ## A new title
 
