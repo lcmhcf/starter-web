@@ -19,4 +19,4 @@ Some other text.
 ## A new title
 
 ### Copyright
-copyright......
+copyright...... All rights reserved.
